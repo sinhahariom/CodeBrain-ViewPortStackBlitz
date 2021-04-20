@@ -1,0 +1,10 @@
+* {
+  margin: 0 auto;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-color: yellow;
+  overflow: hidden; // On Adding this, the Scroll is going to stop for //the entire  Page..
+}
